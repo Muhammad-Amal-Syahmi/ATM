@@ -1,0 +1,10 @@
+C:\Users\lauym\source\repos\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\lauym\source\repos\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\lauym\source\repos\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\lauym\source\repos\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\lauym\source\repos\ATM\ATM\obj\Debug\ATM.ATM.resources
+C:\Users\lauym\source\repos\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\lauym\source\repos\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\lauym\source\repos\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\lauym\source\repos\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\lauym\source\repos\ATM\ATM\obj\Debug\ATM.pdb
