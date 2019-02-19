@@ -14,7 +14,6 @@ namespace ATM
         public void Check_balance() {
             string message = "Your balance : RM" + balance;
         }
-      
         public virtual void withdraw(double amount)
         {
             double withdraw_amount = amount;
